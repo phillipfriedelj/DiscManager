@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManager", "DiscManager.csproj", "{3E8A9889-69EB-4A36-964D-B690120BC9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E8A9889-69EB-4A36-964D-B690120BC9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8A9889-69EB-4A36-964D-B690120BC9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8A9889-69EB-4A36-964D-B690120BC9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8A9889-69EB-4A36-964D-B690120BC9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E744DC42-CB20-47D2-BB43-6D89C497B8C1}
+	EndGlobalSection
+EndGlobal
